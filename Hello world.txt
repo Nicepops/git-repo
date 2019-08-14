@@ -1,2 +1,0 @@
-print("Hello world!"); #something
-print("Hey guys");
